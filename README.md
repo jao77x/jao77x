@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 💙
 
-Meu nome é Miguel Tomaz
+Meu nome é Jhon
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -8,8 +8,6 @@ Meu nome é Miguel Tomaz
 
 ### Você entrar em contato comigo 📫
 
-tomazmiguel26@gmail.com
-
-@mt_tomaz
-
+00001105856823sp@al.educacao.sp.gov.br
+@jão77x
 ![](https://media1.tenor.com/m/QuONbDVFK64AAAAd/beijando-a-camisa-renato-augusto.gif)
